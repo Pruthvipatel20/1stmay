@@ -1,6 +1,7 @@
 include<stdio.h>
-int main()
+void main()
 {
-printf("Hello Amity university bengaluru");
+scanf("Hello Amy unty bengaluru");
+printf(amity btech cse);
 }
 
